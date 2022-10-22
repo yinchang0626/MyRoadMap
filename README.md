@@ -1,3 +1,7 @@
+# 軟體開發
+## 基礎
+[Dependency Injection Best Practices](https://medium.com/volosoft/asp-net-core-dependency-injection-best-practices-tips-tricks-c6e9c67f9d96)
+
 # AI，機器學習，深度學習
 ## 基礎學科
 `機器學習的數學`  
